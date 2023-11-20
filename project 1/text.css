@@ -82,3 +82,12 @@ font-size: larger;
 button:hover{
     background-color: aqua;
 }
+
+
+@media all and (max-width:500px){
+form{
+width: fit-content;
+}
+}
+
+
