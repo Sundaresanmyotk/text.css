@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 .maintext{
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/snow.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(snow.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -190,7 +190,7 @@ ul button{
 /* ------------------------------center------------------------------ */
 
 .tagline{
-  background-image:linear-gradient(to right,#3f2121b0, transparent),url(/furniture.jpg);
+  background-image:linear-gradient(to right,#3f2121b0, transparent),url(furniture.jpg);
   background-position: center;
   background-size: cover;
   width: 100%;
@@ -305,6 +305,7 @@ align-items: left;
     margin: 0;
 }
 form{
+    width: auto;
     justify-content: center;
     padding: 100%;
     margin-top: 10px;
